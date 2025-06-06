@@ -2,5 +2,9 @@
     {
         "package": "neuroim2",
         "url": "https://github.com/bbuchsbaum/neuroim2"
+    },
+    {
+        "package": "bidser",
+        "url": "https://github.com/bbuchsbaum/bidser"
     }
 ]
