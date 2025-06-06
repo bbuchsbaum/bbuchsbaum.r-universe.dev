@@ -6,5 +6,9 @@
     {
         "package": "bidser",
         "url": "https://github.com/bbuchsbaum/bidser"
+    },
+    {
+        "package": "fmrihrf",
+        "url": "https://github.com/bbuchsbaum/fmrihrf"
     }
 ]
