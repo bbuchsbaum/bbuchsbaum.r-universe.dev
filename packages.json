@@ -22,5 +22,9 @@
     {
         "package": "dipca",
         "url": "https://github.com/bbuchsbaum/dipca"
+    },
+    {
+        "package": "phynd",
+        "url": "https://github.com/bbuchsbaum/phynd"
     }
 ]
