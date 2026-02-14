@@ -14,5 +14,9 @@
     {
         "package": "openneuroR",
         "url": "https://github.com/bbuchsbaum/openneuroR"
+    },
+    {
+        "package": "niflowr",
+        "url": "https://github.com/bbuchsbaum/niflowr"
     }
 ]
