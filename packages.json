@@ -18,5 +18,9 @@
     {
         "package": "niflowr",
         "url": "https://github.com/bbuchsbaum/niflowr"
+    },
+    {
+        "package": "dipca",
+        "url": "https://github.com/bbuchsbaum/dipca"
     }
 ]
