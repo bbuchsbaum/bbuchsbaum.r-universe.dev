@@ -30,5 +30,9 @@
     {
         "package": "ciftier",
         "url": "https://github.com/bbuchsbaum/ciftier"
+    },
+    {
+        "package": "fmridesign",
+        "url": "https://github.com/bbuchsbaum/fmridesign"
     }
 ]
