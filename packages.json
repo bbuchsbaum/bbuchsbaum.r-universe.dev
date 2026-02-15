@@ -42,5 +42,9 @@
     {
         "package": "neurotransform",
         "url": "https://github.com/bbuchsbaum/neurotransform"
+    },
+    {
+        "package": "neurocluster",
+        "url": "https://github.com/bbuchsbaum/neurocluster"
     }
 ]
