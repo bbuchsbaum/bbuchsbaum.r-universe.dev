@@ -34,5 +34,9 @@
     {
         "package": "fmridesign",
         "url": "https://github.com/bbuchsbaum/fmridesign"
+    },
+    {
+        "package": "xnatR",
+        "url": "https://github.com/bbuchsbaum/xnatR"
     }
 ]
