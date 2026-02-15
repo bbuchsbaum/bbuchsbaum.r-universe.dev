@@ -26,5 +26,9 @@
     {
         "package": "phynd",
         "url": "https://github.com/bbuchsbaum/phynd"
+    },
+    {
+        "package": "ciftier",
+        "url": "https://github.com/bbuchsbaum/ciftier"
     }
 ]
