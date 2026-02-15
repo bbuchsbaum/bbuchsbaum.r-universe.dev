@@ -38,5 +38,9 @@
     {
         "package": "xnatR",
         "url": "https://github.com/bbuchsbaum/xnatR"
+    },
+    {
+        "package": "neurotransform",
+        "url": "https://github.com/bbuchsbaum/neurotransform"
     }
 ]
