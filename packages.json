@@ -54,5 +54,9 @@
     {
         "package": "shard",
         "url": "https://github.com/bbuchsbaum/shard"
+    },
+    {
+        "package": "fmrireg",
+        "url": "https://github.com/bbuchsbaum/fmrireg"
     }
 ]
