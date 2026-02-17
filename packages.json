@@ -50,5 +50,9 @@
     {
         "package": "fmridataset",
         "url": "https://github.com/bbuchsbaum/fmridataset"
+    },
+    {
+        "package": "shard",
+        "url": "https://github.com/bbuchsbaum/shard"
     }
 ]
