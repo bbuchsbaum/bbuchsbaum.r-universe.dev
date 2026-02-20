@@ -58,5 +58,9 @@
     {
         "package": "fmrireg",
         "url": "https://github.com/bbuchsbaum/fmrireg"
+    },
+    {
+        "package": "neuroatlas",
+        "url": "https://github.com/bbuchsbaum/neuroatlas"
     }
 ]
