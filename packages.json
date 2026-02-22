@@ -62,5 +62,13 @@
     {
         "package": "neuroatlas",
         "url": "https://github.com/bbuchsbaum/neuroatlas"
+    },
+    {
+        "package": "delarr",
+        "url": "https://github.com/bbuchsbaum/delarr"
+    },
+    {
+        "package": "fmrireport",
+        "url": "https://github.com/bbuchsbaum/fmrireport"
     }
 ]
