@@ -70,5 +70,21 @@
     {
         "package": "fmrireport",
         "url": "https://github.com/bbuchsbaum/fmrireport"
+    },
+    {
+        "package": "neurosurf",
+        "url": "https://github.com/bbuchsbaum/neurosurf"
+    },
+    {
+        "package": "fmrigds",
+        "url": "https://github.com/bbuchsbaum/fmrigds"
+    },
+    {
+        "package": "fmrilss",
+        "url": "https://github.com/bbuchsbaum/fmrilss"
+    },
+    {
+        "package": "fmristore",
+        "url": "https://github.com/bbuchsbaum/fmristore"
     }
 ]
