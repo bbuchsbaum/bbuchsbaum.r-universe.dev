@@ -86,5 +86,9 @@
     {
         "package": "fmristore",
         "url": "https://github.com/bbuchsbaum/fmristore"
+    },
+    {
+        "package": "fmrilatent",
+        "url": "https://github.com/bbuchsbaum/fmrilatent"
     }
 ]
