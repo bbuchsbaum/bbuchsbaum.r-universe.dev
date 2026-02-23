@@ -90,5 +90,9 @@
     {
         "package": "fmrilatent",
         "url": "https://github.com/bbuchsbaum/fmrilatent"
+    },
+    {
+        "package": "templateflow",
+        "url": "https://github.com/bbuchsbaum/templateflow"
     }
 ]
