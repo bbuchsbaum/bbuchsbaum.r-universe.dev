@@ -94,5 +94,9 @@
     {
         "package": "templateflow",
         "url": "https://github.com/bbuchsbaum/templateflow"
+    },
+    {
+        "package": "fmriAR",
+        "url": "https://github.com/bbuchsbaum/fmriAR"
     }
 ]
