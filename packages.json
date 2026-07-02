@@ -98,5 +98,33 @@
     {
         "package": "fmriAR",
         "url": "https://github.com/bbuchsbaum/fmriAR"
+    },
+    {
+        "package": "amatrix",
+        "url": "https://github.com/bbuchsbaum/amatrix"
+    },
+    {
+        "package": "amatrix.mlx",
+        "url": "https://github.com/bbuchsbaum/amatrix",
+        "subdir": "backends/amatrix.mlx"
+    },
+    {
+        "package": "amatrix.opencl",
+        "url": "https://github.com/bbuchsbaum/amatrix",
+        "subdir": "backends/amatrix.opencl"
+    },
+    {
+        "package": "amatrix.arrayfire",
+        "url": "https://github.com/bbuchsbaum/amatrix",
+        "subdir": "backends/amatrix.arrayfire"
+    },
+    {
+        "package": "amatrix.metal",
+        "url": "https://github.com/bbuchsbaum/amatrix",
+        "subdir": "backends/amatrix.metal"
+    },
+    {
+        "package": "albersdown",
+        "url": "https://github.com/bbuchsbaum/albersdown"
     }
 ]
