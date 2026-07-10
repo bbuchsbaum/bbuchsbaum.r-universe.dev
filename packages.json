@@ -126,5 +126,9 @@
     {
         "package": "albersdown",
         "url": "https://github.com/bbuchsbaum/albersdown"
+    },
+    {
+        "package": "mixeff",
+        "url": "https://github.com/bbuchsbaum/mixeff"
     }
 ]
